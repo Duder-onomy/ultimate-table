@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "",
+  "authors": [],
+  "main": [
+	  "src/bootstrap-table.css",
+	  "src/bootstrap-table.js",
+  ],
+  "keywords": [],
+  "license": "MIT",
+  "ignore": []
+}
