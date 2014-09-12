@@ -1,0 +1,24 @@
+{
+  "name": "ultimate-table",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Duder-onomy/ultimate-table",
+  "authors": [
+    "Greg Larrenaga <greg.larrenaga@thinksolid.com>"
+  ],
+  "description": "The Most Ultimate Table",
+  "main": "src/ultimate-table.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1"
+  }
+}
